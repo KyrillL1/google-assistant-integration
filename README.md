@@ -31,11 +31,13 @@ Show all (optional) options with `python talkWithAssistant.py --help`
 
 # Device Overview (via REST calls)
 If you want to communicate with the google assistant, you always have to specify a device you are talking with.
-More information regarding that can be found here: [here](https://developers.google.com/assistant/sdk/reference/device-registration/register-device-manual)
-If you are a fan REST calls, check the below out:
-An example device_model.json can be found in ./configs.
-In order to get the authorization accesstoken, do Setup, step 1, but leave out  "--save", so you get the token.
-Remember to substitute the $PARAMETERS in the URL below.
+More information regarding that can be found [here](https://developers.google.com/assistant/sdk/reference/device-registration/register-device-manual).
+If you are a fan of REST calls, check the below out:
+You will need: 
+A. device_model.json (an example can be found in ./configs).
+B. authorization accesstoken. In order to get it, do Setup, step 1, but leave out  "--save", so you get the token.
+
+> Remember to substitute the $PARAMETERS in the URL below.
 
 ## Register
 ```bash
