@@ -1,0 +1,11 @@
+{
+  "project_id": "my-devices-project",
+  "device_model_id": "my-devices-project-prototype-light-v1",
+  "manifest": {
+    "manufacturer": "Assistant SDK developer",
+    "product_name": "Assistant SDK light",
+    "device_description": "Assistant SDK light device"
+  },
+  "device_type": "action.devices.types.LIGHT",
+  "traits": ["action.devices.traits.OnOff"]
+}
