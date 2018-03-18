@@ -4,10 +4,10 @@ This is a simplified version of google's [gRPC assistant service](https://develo
 
 # SetUp
 Do the following steps to setup the enviroment:
-1. [Configure a Developer Project and Account Settings](https://developers.google.com/assistant/sdk/guides/service/python/embed/config-dev-project-and-account)
-2. [Register the Device Model](https://developers.google.com/assistant/sdk/guides/service/python/embed/register-device)
+1. [Configure a Developer Project and Account Settings](https://developers.google.com/assistant/sdk/guides/service/python/embed/config-dev-project-and-account).
+2. [Register the Device Model](https://developers.google.com/assistant/sdk/guides/service/python/embed/register-device).
 3. Clone/ Download this repo and cd into it.
-4. Install local dependencies
+4. Install local dependencies.
 ```bash
 sudo apt-get install portaudio19-dev libffi-dev libssl-dev
 pip install -r requirements.txt
