@@ -30,7 +30,7 @@ Show all (optional) options with `python talkWithAssistant.py --help`
 
 
 # Device Overview (via REST calls)
-If you want to communicate with the google assistant, you always have to specify a device you are talking over with.
+If you want to communicate with the google assistant, you always have to specify a device you are talking with.
 More information regarding that can be found here: [here](https://developers.google.com/assistant/sdk/reference/device-registration/register-device-manual)
 If you are a fan REST calls, check the below out:
 An example device_model.json can be found in ./configs.
