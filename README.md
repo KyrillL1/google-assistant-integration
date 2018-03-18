@@ -1,6 +1,7 @@
 # Overview
 Communicate with the gAssistant in written and spoken form.
 This is a simplified version of google's [gRPC assistant service](https://developers.google.com/assistant/sdk/guides/service/python/).
+This is an instruction for the Python Language. For other languages, please check the link above.
 
 # SetUp
 Do the following steps to setup the enviroment:
